@@ -7,7 +7,7 @@ Reality Compiler is a **multimodal AI reasoning system** that converts messy, re
 This is **not a chat app**.
 This is **not a summarizer**.
 
-Reality Compiler treats **reality as source code** and **reasoning as compilation** using **Gemimi 3**.
+Reality Compiler treats **reality as source code** and **reasoning as compilation** using **Gemini 3**.
 
 ---
 
